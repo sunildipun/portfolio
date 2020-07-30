@@ -4,6 +4,7 @@ let resumeData = {
     "role": "Frontend Developer",
     "linkedinId":"/in/sunilbehera95/",
     "skypeid": "N A",
+    "phone": "9437488830 / 9108434982",
     "roleDescription": `I am a very passionate JavaScript Developer. I love learning new things every day and keeping up with the new technologies. I started as a HTML/CSS Developer in 2017 and since then I'm improving my skills with practice as much as I can.`,
     "socialLinks":[
         {

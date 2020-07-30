@@ -33,9 +33,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/unslpash.jpg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
+   /* background: #161415 url(../images/unslpash.jpg) no-repeat top center; */
+   /* background-size: cover !important; */
+	/* -webkit-background-size: cover !important; */
    text-align: center;
    overflow: hidden;
 }
@@ -341,7 +341,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -352,6 +352,24 @@ ul#nav li.current a { color: #F06000; }
 }
 .jquery {
   	width: 50%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+
+.angular {
+   width: 70%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+
+.javascript {
+   width: 70%;
+   -moz-animation: jquery 2s ease;
+   -webkit-animation: jquery 2s ease;  
+}
+
+.node {
+   width: 40%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
